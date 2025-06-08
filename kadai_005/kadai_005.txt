@@ -12,7 +12,7 @@ PS C:\Users\81902\desktop\git_challenge> git commit -m "Add hello_world.txt"
  create mode 100644 hello_world.txt
 PS C:\Users\81902\desktop\git_challenge> echo "こんにちは、世界！" >> hello_world.txt
 PS C:\Users\81902\desktop\git_challenge> git add hello_world.txt
-PS C:\Users\81902\desktop\git_challenge> git commit -m "Add hello_world.txt"
+PS C:\Users\81902\desktop\git_challenge> git commit -m "日本語の挨拶を追加"
 PS C:\Users\81902\desktop\git_challenge> git log --oneline
 d7d3611 (HEAD -> main) Add hello_world.txt
 452dbaa Add hello_world.txt
