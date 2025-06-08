@@ -10,7 +10,7 @@ PS C:\Users\81902\desktop\git_challenge> git commit -m "Add hello_world.txt"
 [main (root-commit) 452dbaa] Add hello_world.txt
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 hello_world.txt
-PS C:\Users\81902\desktop\git_challenge> echo "こんにちは、世界！" > hello_world.txt
+PS C:\Users\81902\desktop\git_challenge> echo "こんにちは、世界！" >> hello_world.txt
 PS C:\Users\81902\desktop\git_challenge> git add hello_world.txt
 PS C:\Users\81902\desktop\git_challenge> git commit -m "Add hello_world.txt"
 PS C:\Users\81902\desktop\git_challenge> git log --oneline
